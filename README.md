@@ -12,4 +12,4 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at McGill Unive
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nathaniel-factor)
-- [nathaniel.factor@mail.mcgill.ca](mailto:nathaniel.factor@mail.mcgill.ca
+- nathaniel.factor@mail.mcgill.ca
