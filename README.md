@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm Nathaniel Factor!
 
-<!--
-**NathanielFactor/NathanielFactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Engineering student at McGill University with a Minor in Applied Artificial Intelligence. I'm passionate about software development, robotics, and AI, and I'm always excited to learn new technologies and work on interesting projects.
 
-Here are some ideas to get you started:
+### 📫 How to reach me: [nathaniel.factor@mail.mcgill.ca](mailto:nathaniel.factor@mail.mcgill.ca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools
+- **Languages:** Java, Python, C++, JavaScript, TypeScript, bash, command-line
+- **Frameworks:** Next.js, ROS (1 & 2), Sveltekit
+- **Tools:** Jira, Git, Unity, Tailwind CSS, Docker
+
+### 📊 GitHub Stats
+![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanielFactor&show_icons=true&theme=radical)
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nathaniel-factor)
